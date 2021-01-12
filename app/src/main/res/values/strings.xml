@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hi_SiBee</string>
+
+    <string name="text_label_1">num_1</string>
+    <string name="text_label_2">num_2</string>
+    <string name="text_label_3">num_3</string>
+</resources>

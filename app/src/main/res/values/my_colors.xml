@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textBlackFontColor">#203541</color>
+    <color name="textLightBlackFontColor">#374955</color>
+    <color name="textLightGreyFontColor">#f1f1f1</color>
+    <color name="yellow">#ffd933</color>
+    <color name="red">#f62a66</color>
+</resources>
